@@ -3,4 +3,4 @@ Q2. Write a C program to add two predefined integers and display the result.
 Q3. Write a C program to calculate the area of a circle using a predefined radius.
 Q4. Write a C program to perform integer division and find the remainder using two predefined numbers.
 Q5. Write a C program to perform a mathematical expression involving multiplication and addition.
-
+Q6. Write a C program that calculates the difference between two integers a and b, and stores the result in variable c. The program should print the value of c.
