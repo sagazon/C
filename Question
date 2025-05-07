@@ -6,3 +6,4 @@ Q5. Write a C program to perform a mathematical expression involving multiplicat
 Q6. Write a C program that calculates the difference between two integers a and b, and stores the result in variable c. The program should print the value of c.
 Q7. Write a C program that defines a function add() to calculate and print the sum of two integers, a and b. The add() function should be called in the main() function to display the result.
 Q8. Write a C program that defines a function multiple() to calculate and print the product of two integers a and b. Call the multiple() function from the main() function.
+Q9. Write a C program that defines a function square() to calculate and print the square of an integer a. Call the square() function from the main() function.
