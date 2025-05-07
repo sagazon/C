@@ -9,5 +9,5 @@ void multiple() {
 
 int main() {
     multiple();  // Calling the multiple function
-    return 0;    // Return statement for successful execution
+    return 0;   
 }
