@@ -8,3 +8,5 @@ Q7. Write a C program that defines a function add() to calculate and print the s
 Q8. Write a C program that defines a function multiple() to calculate and print the product of two integers a and b. Call the multiple() function from the main() function.
 Q9. Write a C program that defines a function square() to calculate and print the square of an integer a. Call the square() function from the main() function.
 Q10.Write a C program that calculates the result of the expression (a + b) * 2 using two integers and prints the result as a float. Implement this logic inside a function and call it from main().
+Q11.Write a C program to perform the modulus operation between two integers and display the result.
+
