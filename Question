@@ -17,3 +17,4 @@ Q16.Write a C program that takes three floating point numbers as input from the 
 Q17.Write a C program that takes the length and breadth of a rectangle as input from the user, calculates its area using a separate function, and prints the result.
 Q18.Write a C program that takes time in minutes from the user, converts it to hours and remaining minutes, and displays the result.
 Q19.Write a C program that takes two floating point numbers as input from the user, calculates the sum and difference, multiplies the result, and displays the result.
+Q20.Write a C program that takes a student's name and marks for three subjects, calculates the total marks and average, and displays the result.
