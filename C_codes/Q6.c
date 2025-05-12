@@ -6,4 +6,6 @@ int main(){
     c = a - b;
     
     printf("The value of c is %d", c);
+
+    return 0;
 }
