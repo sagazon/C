@@ -12,3 +12,4 @@ Q11.Write a C program to perform the modulus operation between two integers and 
 Q12.Write a C program to calculate the cube of a number using a separate function.
 Q13.Write a C program to calculate the area of a circle using a function that returns the result.
 Q14.Write a C program to calculate the sum of the squares of two integer numbers using separate functions.
+Q15.Write a C program to calculate the average of three numbers using separate functions for addition and average.
