@@ -15,3 +15,4 @@ Q14.Write a C program to calculate the sum of the squares of two integer numbers
 Q15.Write a C program to calculate the average of three numbers using separate functions for addition and average.
 Q16.Write a C program that takes three floating-point numbers as input from the user, calculates their average using a separate function, and displays the result rounded to two decimal places.
 Q17.Write a C program that takes the length and breadth of a rectangle as input from the user, calculates its area using a separate function, and prints the result.
+Q18.Write a C program that takes time in minutes from the user, converts it to hours and remaining minutes, and displays the result.
