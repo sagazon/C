@@ -27,3 +27,4 @@ Q26.Write a C program using structures to input marks of three subjects (Science
 Q27.Write a C program to perform basic arithmetic operations (addition, subtraction, multiplication, and division) between two numbers based on the user’s input operator.
 Q28.Write a C program that takes two integers and an operator as input, then performs the corresponding arithmetic operation (+, -, *, /) using a switch statement and handles division by zero.
 Q29.Write a C program using a struct to input marks for four subjects, calculate total and average, and print grades based on specified criteria using if-else.
+Q30.Write a C program to simulate a food ordering system where the user can select items from a menu using if-else or switch-case, track quantities of each item ordered, calculate the total bill, and allow payment by different methods.
