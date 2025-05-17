@@ -26,3 +26,4 @@ Q25.Write a C program using a structure to store and display a person's name and
 Q26.Write a C program using structures to input marks of three subjects (Science, Maths, and Computer Science), calculate the average, and display grades for each subject based on the marks.
 Q27.Write a C program to perform basic arithmetic operations (addition, subtraction, multiplication, and division) between two numbers based on the user’s input operator.
 Q28.Write a C program that takes two integers and an operator as input, then performs the corresponding arithmetic operation (+, -, *, /) using a switch statement and handles division by zero.
+Q29.Write a C program using a struct to input marks for four subjects, calculate total and average, and print grades based on specified criteria using if-else.
