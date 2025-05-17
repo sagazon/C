@@ -21,3 +21,4 @@ Q20.Write a C program that takes a student's name and marks for three subjects, 
 Q21.Write a C program that takes a student's name and marks of 3 subjects, calculates the total and average, and prints the result.
 Q22.Write a C program to take an integer input from the user and pass it to a function that returns the number increased by 1.
 Q23.Write a C program to check if a number is positive, negative, or zero using a function.
+Q24.Write a C program to find the greatest among three numbers using a function.
