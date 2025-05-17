@@ -23,3 +23,4 @@ Q22.Write a C program to take an integer input from the user and pass it to a fu
 Q23.Write a C program to check if a number is positive, negative, or zero using a function.
 Q24.Write a C program to find the greatest among three numbers using a function.
 Q25.Write a C program using a structure to store and display a person's name and age.
+Q26.Write a C program using structures to input marks of three subjects (Science, Maths, and Computer Science), calculate the average, and display grades for each subject based on the marks.
