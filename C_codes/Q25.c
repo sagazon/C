@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 // Define a structure to hold name and age
-struct info
+struct user_info
 {
     char name[20]; // to store the name
     int age;       // to store the age
 };
 
 int main() {
-    struct info p; // Create a structure variable
+    struct user_info p; // Create a structure variable
 
     // Input name and age from the user
     printf("Enter your name: ");
