@@ -1,30 +1,29 @@
-Q1. Write a C program to add two integer numbers and display the result.
-Q2. Write a C program to add two predefined integers and display the result.
-Q3. Write a C program to calculate the area of a circle using a predefined radius.
-Q4. Write a C program to perform integer division and find the remainder using two predefined numbers.
-Q5. Write a C program to perform a mathematical expression involving multiplication and addition.
-Q6. Write a C program that calculates the difference between two integers a and b, and stores the result in variable c. The program should print the value of c.
-Q7. Write a C program that defines a function add() to calculate and print the sum of two integers, a and b. The add() function should be called in the main() function to display the result.
-Q8. Write a C program that defines a function multiple() to calculate and print the product of two integers a and b. Call the multiple() function from the main() function.
-Q9. Write a C program that defines a function square() to calculate and print the square of an integer a. Call the square() function from the main() function.
-Q10.Write a C program that calculates the result of the expression (a + b) * 2 using two integers and prints the result as a float. Implement this logic inside a function and call it from main().
-Q11.Write a C program to perform the modulus operation between two integers and display the result.
-Q12.Write a C program to calculate the cube of a number using a separate function.
-Q13.Write a C program to calculate the area of a circle using a function that returns the result.
-Q14.Write a C program to calculate the sum of the squares of two integer numbers using separate functions.
-Q15.Write a C program to calculate the average of three numbers using separate functions for addition and average.
-Q16.Write a C program that takes three floating point numbers as input from the user, calculates their average using a separate function, and displays the result rounded to two decimal places.
-Q17.Write a C program that takes the length and breadth of a rectangle as input from the user, calculates its area using a separate function, and prints the result.
-Q18.Write a C program that takes time in minutes from the user, converts it to hours and remaining minutes, and displays the result.
-Q19.Write a C program that takes two floating point numbers as input from the user, calculates the sum and difference, multiplies the result, and displays the result.
-Q20.Write a C program that takes a student's name and marks for three subjects, calculates the total marks and average, and displays the result.
-Q21.Write a C program that takes a student's name and marks of 3 subjects, calculates the total and average, and prints the result.
-Q22.Write a C program to take an integer input from the user and pass it to a function that returns the number increased by 1.
-Q23.Write a C program to check if a number is positive, negative, or zero using a function.
-Q24.Write a C program to find the greatest among three numbers using a function.
-Q25.Write a C program using a structure to store and display a person's name and age.
-Q26.Write a C program using structures to input marks of three subjects (Science, Maths, and Computer Science), calculate the average, and display grades for each subject based on the marks.
-Q27.Write a C program to perform basic arithmetic operations (addition, subtraction, multiplication, and division) between two numbers based on the user’s input operator.
-Q28.Write a C program that takes two integers and an operator as input, then performs the corresponding arithmetic operation (+, -, *, /) using a switch statement and handles division by zero.
-Q29.Write a C program using a struct to input marks for four subjects, calculate total and average, and print grades based on specified criteria using if-else.
-Q30.Write a C program to simulate a food ordering system where the user can select items from a menu using if-else or switch-case, track quantities of each item ordered, calculate the total bill, and allow payment by different methods.=> [Referance_Videos](https://youtu.be/09UED2kFV3A)
+Write a C program to add two integer numbers and display the result.
+Write a C program to add two predefined integers and display the result.
+Write a C program to perform integer division and find the remainder using two predefined numbers.
+Write a C program to perform a mathematical expression involving multiplication and addition.
+Write a C program that calculates the difference between two integers a and b, and stores the result in variable c. The program should print the value of c.
+Write a C program that defines a function add() to calculate and print the sum of two integers, a and b. The add() function should be called in the main() function to display the result.
+Write a C program that defines a function multiple() to calculate and print the product of two integers a and b. Call the multiple() function from the main() function.
+Write a C program that defines a function square() to calculate and print the square of an integer a. Call the square() function from the main() function.
+Write a C program that calculates the result of the expression (a + b) * 2 using two integers and prints the result as a float. Implement this logic inside a function and call it from main().
+Write a C program to perform the modulus operation between two integers and display the result.
+Write a C program to calculate the cube of a number using a separate function.
+Write a C program to calculate the area of a circle using a function that returns the result.
+Write a C program to calculate the sum of the squares of two integer numbers using separate functions.
+Write a C program to calculate the average of three numbers using separate functions for addition and average.
+Write a C program that takes three floating point numbers as input from the user, calculates their average using a separate function, and displays the result rounded to two decimal places.
+Write a C program that takes the length and breadth of a rectangle as input from the user, calculates its area using a separate function, and prints the result.
+Write a C program that takes time in minutes from the user, converts it to hours and remaining minutes, and displays the result.
+Write a C program that takes two floating point numbers as input from the user, calculates the sum and difference, multiplies the result, and displays the result.
+Write a C program that takes a student's name and marks for three subjects, calculates the total marks and average, and displays the result.
+Write a C program that takes a student's name and marks of 3 subjects, calculates the total and average, and prints the result.
+Write a C program to take an integer input from the user and pass it to a function that returns the number increased by 1.
+Write a C program to check if a number is positive, negative, or zero using a function.
+Write a C program to find the greatest among three numbers using a function.
+Write a C program using a structure to store and display a person's name and age.
+Write a C program using structures to input marks of three subjects (Science, Maths, and Computer Science), calculate the average, and display grades for each subject based on the marks.
+Write a C program to perform basic arithmetic operations (addition, subtraction, multiplication, and division) between two numbers based on the user’s input operator.
+Write a C program that takes two integers and an operator as input, then performs the corresponding arithmetic operation (+, -, *, /) using a switch statement and handles division by zero.
+Write a C program using a struct to input marks for four subjects, calculate total and average, and print grades based on specified criteria using if-else.
+Write a C program to simulate a food ordering system where the user can select items from a menu using if-else or switch-case, track quantities of each item ordered, calculate the total bill, and allow payment by different methods.=> [Referance_Videos](https://youtu.be/09UED2kFV3A)
